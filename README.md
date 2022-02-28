@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @3Nitinkaushik
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning android development using flutter
+- 💞️ I’m looking to collaborate on an android app project
